@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-tt.netlify.app](https://portfolio-tt.netlify.app)
-
 - 📫 How to reach me **ttushaar45@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-tt.netlify.app](https://portfolio-tt.netlify.app)
