@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TusharTharwani</h1>
+<h1 align="center">Hi 👋, I'm Tushar Tharwani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttushaar1906&label=Profile%20views&color=0e75b6&style=flat" alt="ttushaar1906" /> </p>
@@ -11,12 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-tt.netlify.app](https://portfolio-tt.netlify.app)
 
-- 📫 How to reach me **ttushaar45@gmail.com**
+- 📫 How to reach me **work.tushar19@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-tt.netlify.app](https://portfolio-tt.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/dev.to/tushar_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/tushar_19" height="30" width="40" /></a>
 <a href="https://twitter.com/tushaar_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushaar_19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/tushar-tharwani-6527b5244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/tushar-tharwani-6527b5244/" height="30" width="40" /></a>
 <a href="https://instagram.com/_tushaar_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tushaar_19/" height="30" width="40" /></a>
