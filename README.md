@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/tushar_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tushar_19" height="30" width="40" /></a>
 <a href="https://twitter.com/tushaar_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushaar_19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/tushar-tharwani-6527b5244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/tushar-tharwani-6527b5244/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tushar-tharwani-6527b5244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-tharwani-6527b5244/" height="30" width="40" /></a>
 <a href="https://instagram.com/_tushaar_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tushaar_19/" height="30" width="40" /></a>
 </p>
 
